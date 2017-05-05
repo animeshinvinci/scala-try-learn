@@ -28,4 +28,9 @@ object TryNLearn{
       print( 2 * i)
       print(i +  " | ")}
 
+
+
+  def notFound() = dMap ! None
+
+
 }
